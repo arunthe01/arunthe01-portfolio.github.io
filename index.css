@@ -459,6 +459,7 @@
     margin-right: 50px;
     flex-wrap: wrap;
   }
+  
 
 
   @media (max-width: 600px) {
@@ -474,7 +475,7 @@
    }
    .image-me{
     width: 100%;
-    
+
     
    }
   }
